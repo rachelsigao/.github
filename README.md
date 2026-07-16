@@ -14,7 +14,7 @@
 
 ## 💡 About Me
 
-Ex-Operations professional with over 4 years of experience at Amazon, specializing in quality assurance, process improvement, knowledge management, and cross-functional collaboration. Strong analytical mindset with proven experience in root cause analysis, troubleshooting operational issues, and improving process efficiency in a fast-paced environment.
+**Ex-Operations professional with over 4 years of experience at Amazon**, specializing in quality assurance, process improvement, knowledge management, and cross-functional collaboration. Strong analytical mindset with proven experience in root cause analysis, troubleshooting operational issues, and improving process efficiency in a fast-paced environment.
 DevOps Enthusiast with practical experience in designing, deploying, automating, and troubleshooting cloud infrastructure through AWS-based engineering projects. Experienced with Linux administration, Infrastructure as Code using Terraform, CI/CD pipelines with Jenkins and GitHub Actions, Docker, Kubernetes, monitoring, logging, and security automation.
 
 ---
