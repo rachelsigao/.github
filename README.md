@@ -70,40 +70,40 @@ DevOps Enthusiast with practical experience in designing, deploying, automating,
 ### 💻 AWS DevOps Intern - JoinDevOps (June 2015 - Present)
 
 #### AWS Infrastructure & Linux Administration
-• Provisioned AWS EC2 instances and configured IAM, Security Groups, SSH,and Route 53 for secure infrastructure.
-• Administered Linux servers by managing users, groups, permissions,packages, services, and SSH access.
-• Configured Nginx as a reverse proxy for a three-tier microservices applicationwith MongoDB, MySQL, Redis, and RabbitMQ.• Validated application connectivity and resolved Linux service issues throughlog analysis.
+- Provisioned AWS EC2 instances and configured IAM, Security Groups, SSH,and Route 53 for secure infrastructure.
+- Administered Linux servers by managing users, groups, permissions,packages, services, and SSH access.
+- Configured Nginx as a reverse proxy for a three-tier microservices applicationwith MongoDB, MySQL, Redis, and RabbitMQ.- Validated application connectivity and resolved Linux service issues throughlog analysis.
 #### Infrastructure Automation (Terraform)
-• Provisioned AWS infrastructure using reusable Terraform modules following Infrastructure as Code (IaC).
-• Automated deployment of VPCs, subnets, EC2 instances, Security Groups,and IAM resources.
-• Managed Terraform state and resolved deployment failures caused by IAMpermissions and resource dependencies.
+- Provisioned AWS infrastructure using reusable Terraform modules following Infrastructure as Code (IaC).
+- Automated deployment of VPCs, subnets, EC2 instances, Security Groups,and IAM resources.
+- Managed Terraform state and resolved deployment failures caused by IAMpermissions and resource dependencies.
 #### CI/CD Automation (Jenkins)
-• Built Declarative Jenkins pipelines to automate build, testing, anddeployment.
-• Configured Jenkins Master-Agent architecture and integrated GitHub usingwebhooks.
-• Troubleshot build failures, validated deployments, and implemented rollbackstrategies.
+- Built Declarative Jenkins pipelines to automate build, testing, anddeployment.
+- Configured Jenkins Master-Agent architecture and integrated GitHub usingwebhooks.
+- Troubleshot build failures, validated deployments, and implemented rollbackstrategies.
 #### Docker & Kubernetes
-• Containerized applications using Docker and deployed workloads to AmazonEKS using Deployments, Services, ConfigMaps, and Secrets.• Performed rolling updates and resolved CrashLoopBackOff and image pullissues.
+- Containerized applications using Docker and deployed workloads to AmazonEKS using Deployments, Services, ConfigMaps, and Secrets.- Performed rolling updates and resolved CrashLoopBackOff and image pullissues.
 #### Monitoring, Logging & Security
-• Configured Prometheus, Grafana, ELK Stack, and CloudWatch formonitoring, centralized logging, and observability.
-• Integrated SonarQube and Trivy into CI/CD pipelines for code quality andvulnerability scanning.
-• Performed root cause analysis for deployment and infrastructure issues usinglogs, dashboards, and system metrics.
+- Configured Prometheus, Grafana, ELK Stack, and CloudWatch formonitoring, centralized logging, and observability.
+- Integrated SonarQube and Trivy into CI/CD pipelines for code quality andvulnerability scanning.
+- Performed root cause analysis for deployment and infrastructure issues usinglogs, dashboards, and system metrics.
 
 ### 🎯 Operations Specialist - Amazon (December 2024 - May 2025)
-• Led quality and process improvement initiatives by analyzing operationaltrends, identifying recurring defects, and implementing preventive actions thatimproved workflow efficiency. • Partnered with policy, operations, and quality stakeholders during processlaunches to assess risks, validate operational readiness, and ensure smoothimplementation.
-• Developed and standardized SOPs, training materials, and knowledgedocumentation to improve process consistency and reduce operational errorsacross teams. 
-• Mentored team members through quality coaching, performance feedback,and knowledge-sharing sessions while promoting a continuous improvementand automation mindset.
+- Led quality and process improvement initiatives by analyzing operationaltrends, identifying recurring defects, and implementing preventive actions thatimproved workflow efficiency. - Partnered with policy, operations, and quality stakeholders during processlaunches to assess risks, validate operational readiness, and ensure smoothimplementation.
+- Developed and standardized SOPs, training materials, and knowledgedocumentation to improve process consistency and reduce operational errorsacross teams. 
+- Mentored team members through quality coaching, performance feedback,and knowledge-sharing sessions while promoting a continuous improvementand automation mindset.
 
 ### 📈 Senior Operations Associate - Amazon (May 2023 - December 2024)
-• Investigated process deviations and quality defects by performing detailedreviews, identifying root causes, and recommending corrective actions toprevent recurrence. 
-• Designed and maintained process documentation, SOPs, and onboardingresources, enabling faster knowledge transfer and consistent execution ofoperational procedures. 
-• Collaborated with cross-functional teams to validate process updates,support change implementation, and minimize operational risks duringrollouts. 
-• Monitored quality metrics and performance trends to identify improvementopportunities, contributing to higher process accuracy and service quality.
+- Investigated process deviations and quality defects by performing detailedreviews, identifying root causes, and recommending corrective actions toprevent recurrence. 
+- Designed and maintained process documentation, SOPs, and onboardingresources, enabling faster knowledge transfer and consistent execution ofoperational procedures. 
+- Collaborated with cross-functional teams to validate process updates,support change implementation, and minimize operational risks duringrollouts. 
+- Monitored quality metrics and performance trends to identify improvementopportunities, contributing to higher process accuracy and service quality.
 
 ### 🛠️ Operations Associate - Amazon (May 2021 - May 2023)
-• Executed daily operational workflows while ensuring compliance with qualitystandards, process guidelines, and service level agreements in a high-volumeenvironment. 
-• Investigated customer-impacting issues by following established procedures,documenting findings, and escalating complex cases for timely resolution. 
-• Performed quality audits to identify process gaps, improve operationalaccuracy, and support continuous improvement initiatives. 
-• Maintained accurate operational records and collaborated with teammembers to resolve day-to-day challenges while consistently meetingproductivity and quality targets.
+- Executed daily operational workflows while ensuring compliance with qualitystandards, process guidelines, and service level agreements in a high-volumeenvironment. 
+- Investigated customer-impacting issues by following established procedures,documenting findings, and escalating complex cases for timely resolution. 
+- Performed quality audits to identify process gaps, improve operationalaccuracy, and support continuous improvement initiatives. 
+- Maintained accurate operational records and collaborated with teammembers to resolve day-to-day challenges while consistently meetingproductivity and quality targets.
 
 --- 
 
