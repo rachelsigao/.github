@@ -22,8 +22,9 @@ DevOps Enthusiast with practical experience in designing, deploying, automating,
 ## 🧰 Technical Skills  
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-  <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Helm-%23000A0A.svg?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
   <img src="https://img.shields.io/badge/ArgoCD-%231e1e2e.svg?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD" />
@@ -46,7 +47,7 @@ DevOps Enthusiast with practical experience in designing, deploying, automating,
 
 ---
 
-## 🏆 Experience   
+## 🏆 Experience  
 
 ### 💻 AWS DevOps Intern - JoinDevOps (Jun 2015 - Present)
 - Designed and provisioned AWS infrastructure using Terraform, deploying EC2, VPC, IAM, Security Groups, Route 53, and other cloud resources following Infrastructure as Code (IaC) principles.
@@ -57,25 +58,26 @@ DevOps Enthusiast with practical experience in designing, deploying, automating,
 - Investigated and resolved infrastructure and deployment issues including Terraform provisioning failures, Jenkins build errors, Kubernetes CrashLoopBackOff, IAM permission issues, Nginx service failures, and application downtime through root cause analysis and log-based troubleshooting.
 
 ### 🎯 Operations Specialist - Amazon (Dec 2024 - May 2025)
-- Led quality and process improvement initiatives by analyzing operationaltrends, identifying recurring defects, and implementing preventive actions thatimproved workflow efficiency. - Partnered with policy, operations, and quality stakeholders during processlaunches to assess risks, validate operational readiness, and ensure smoothimplementation.
-- Developed and standardized SOPs, training materials, and knowledgedocumentation to improve process consistency and reduce operational errorsacross teams. 
-- Mentored team members through quality coaching, performance feedback,and knowledge-sharing sessions while promoting a continuous improvementand automation mindset.
+- Led quality and process improvement initiatives by analyzing operational trends, identifying recurring defects, and implementing preventive actions that improved workflow efficiency.
+- Partnered with policy, operations, and quality stakeholders during process launches to assess risks, validate operational readiness, and ensure smooth implementation.
+- Developed and standardized SOPs, training materials, and knowledge documentation to improve process consistency and reduce operational errors across teams.
+- Mentored team members through quality coaching, performance feedback, and knowledge-sharing sessions while promoting a continuous improvement and automation mindset.
 
 ### 📈 Senior Operations Associate - Amazon (May 2023 - Dec 2024)
-- Investigated process deviations and quality defects by performing detailedreviews, identifying root causes, and recommending corrective actions toprevent recurrence. 
-- Designed and maintained process documentation, SOPs, and onboardingresources, enabling faster knowledge transfer and consistent execution ofoperational procedures. 
-- Collaborated with cross-functional teams to validate process updates,support change implementation, and minimize operational risks duringrollouts. 
-- Monitored quality metrics and performance trends to identify improvementopportunities, contributing to higher process accuracy and service quality.
+- Investigated process deviations and quality defects by performing detailed reviews, identifying root causes, and recommending corrective actions to prevent recurrence.
+- Designed and maintained process documentation, SOPs, and onboarding resources, enabling faster knowledge transfer and consistent execution of operational procedures.
+- Collaborated with cross-functional teams to validate process updates, support change implementation, and minimize operational risks during rollouts.
+- Monitored quality metrics and performance trends to identify improvement opportunities, contributing to higher process accuracy and service quality.
 
 ### 🛠️ Operations Associate - Amazon (May 2021 - May 2023)
-- Executed daily operational workflows while ensuring compliance with qualitystandards, process guidelines, and service level agreements in a high-volumeenvironment. 
-- Investigated customer-impacting issues by following established procedures,documenting findings, and escalating complex cases for timely resolution. 
-- Performed quality audits to identify process gaps, improve operationalaccuracy, and support continuous improvement initiatives. 
-- Maintained accurate operational records and collaborated with teammembers to resolve day-to-day challenges while consistently meetingproductivity and quality targets.
+- Executed daily operational workflows while ensuring compliance with quality standards, process guidelines, and service level agreements in a high-volume environment.
+- Investigated customer-impacting issues by following established procedures, documenting findings, and escalating complex cases for timely resolution.
+- Performed quality audits to identify process gaps, improve operational accuracy, and support continuous improvement initiatives.
+- Maintained accurate operational records and collaborated with team members to resolve day-to-day challenges while consistently meeting productivity and quality targets.
 
---- 
+---
 
- ## 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=rachelsigao&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=rachelsigao&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rachelsigao&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
