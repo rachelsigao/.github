@@ -110,11 +110,12 @@ DevOps Enthusiast with practical experience in designing, deploying, automating,
 ## 🐍 GitHub Contribution Snake
 
 <picture>
-  <img data-importer="snake" src="https://raw.githubusercontent.com/rachelsigao/rachelsigao/snake-output/snake.svg" alt="Snake animation" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rachelsigao/snake/output/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rachelsigao/snake/output/snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rachelsigao/snake/output/snake.svg" />
 </picture>
 
-------- 
- 
+-------  
  # 📊 GitHub Stats:
 
 
