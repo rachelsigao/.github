@@ -58,28 +58,12 @@ DevOps Enthusiast with practical experience in designing, deploying, automating,
 ## 🏆 Experience   
 
 ### 💻 AWS DevOps Intern - JoinDevOps (Jun 2015 - Present)
-**AWS Infrastructure & Linux Administration**
-- Provisioned AWS EC2 instances and configured IAM, Security Groups, SSH,and Route 53 for secure infrastructure.
-- Administered Linux servers by managing users, groups, permissions,packages, services, and SSH access.
-- Configured Nginx as a reverse proxy for a three-tier microservices applicationwith MongoDB, MySQL, Redis, and RabbitMQ.- Validated application connectivity and resolved Linux service issues throughlog analysis.
-
-**Infrastructure Automation (Terraform)**
-- Provisioned AWS infrastructure using reusable Terraform modules following Infrastructure as Code (IaC).
-- Automated deployment of VPCs, subnets, EC2 instances, Security Groups,and IAM resources.
-- Managed Terraform state and resolved deployment failures caused by IAMpermissions and resource dependencies.
-
-**CI/CD Automation (Jenkins)**
-- Built Declarative Jenkins pipelines to automate build, testing, anddeployment.
-- Configured Jenkins Master-Agent architecture and integrated GitHub usingwebhooks.
-- Troubleshot build failures, validated deployments, and implemented rollbackstrategies.
-
-**Docker & Kubernetes**
-- Containerized applications using Docker and deployed workloads to AmazonEKS using Deployments, Services, ConfigMaps, and Secrets.- Performed rolling updates and resolved CrashLoopBackOff and image pullissues.
-
-**Monitoring, Logging & Security**
-- Configured Prometheus, Grafana, ELK Stack, and CloudWatch formonitoring, centralized logging, and observability.
-- Integrated SonarQube and Trivy into CI/CD pipelines for code quality andvulnerability scanning.
-- Performed root cause analysis for deployment and infrastructure issues usinglogs, dashboards, and system metrics.
+- Designed and provisioned AWS infrastructure using Terraform, deploying EC2, VPC, IAM, Security Groups, Route 53, and other cloud resources following Infrastructure as Code (IaC) principles.
+- Configured Linux servers, Nginx reverse proxy, and deployed a three-tier RoboShop microservices application integrating MongoDB, MySQL, Redis, and RabbitMQ.
+- Built automated CI/CD pipelines using Jenkins and GitHub Actions to streamline application build, testing, Docker image creation, deployment, validation, and rollback.
+- Containerized applications using Docker and deployed them to Amazon EKS with Kubernetes Deployments, Services, ConfigMaps, and Secrets, performing rolling updates and deployment validation.
+- Implemented DevSecOps practices by integrating SonarQube and Trivy into CI/CD pipelines, while configuring Prometheus, Grafana, ELK Stack, and CloudWatch for monitoring, logging, alerting, and observability.
+- Investigated and resolved infrastructure and deployment issues including Terraform provisioning failures, Jenkins build errors, Kubernetes CrashLoopBackOff, IAM permission issues, Nginx service failures, and application downtime through root cause analysis and log-based troubleshooting.
 
 ### 🎯 Operations Specialist - Amazon (Dec 2024 - May 2025)
 - Led quality and process improvement initiatives by analyzing operationaltrends, identifying recurring defects, and implementing preventive actions thatimproved workflow efficiency. - Partnered with policy, operations, and quality stakeholders during processlaunches to assess risks, validate operational readiness, and ensure smoothimplementation.
@@ -100,6 +84,14 @@ DevOps Enthusiast with practical experience in designing, deploying, automating,
 
 --- 
 
+ ## 📊 GitHub Stats:
+
+![](https://github-readme-stats.shion.dev/api?username=rachelsigao&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=rachelsigao&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rachelsigao&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+---
+
 ## 🐍 GitHub Contribution Snake
 
 <picture>
@@ -107,12 +99,3 @@ DevOps Enthusiast with practical experience in designing, deploying, automating,
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rachelsigao/rachelsigao/output/snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rachelsigao/rachelsigao/output/snake.svg" />
 </picture>
-
-###
--------  
- # 📊 GitHub Stats:
-
-![](https://github-readme-stats.shion.dev/api?username=rachelsigao&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=rachelsigao&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rachelsigao&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
