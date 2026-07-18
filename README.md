@@ -46,7 +46,7 @@ DevOps Enthusiast with practical experience in designing, deploying, automating,
 
 ---
 
-## 🏆 Experience  
+## 👔 Experience  
 
 ### 💻 AWS DevOps Intern - JoinDevOps (Jun 2015 - Present)
 - Designed and provisioned AWS infrastructure using Terraform, deploying EC2, VPC, IAM, Security Groups, Route 53, and other cloud resources following Infrastructure as Code (IaC) principles.
@@ -76,9 +76,10 @@ DevOps Enthusiast with practical experience in designing, deploying, automating,
 
 ---
 
-## Certifications
+## 📜 Certifications
 
 DevOps Foundations: Continuous Delivery/Continuous Integration
+
 CompTIA | Issued: July 2026
 
 ---
