@@ -78,9 +78,7 @@ DevOps Enthusiast with practical experience in designing, deploying, automating,
 
 ## 📜 Certifications
 
-**DevOps Foundations: Continuous Delivery/Continuous Integration**
-<p align="right">
-CompTIA | Issued: July 2026
+**DevOps Foundations: Continuous Delivery/Continuous Integration** - CompTIA | Issued: July 2026
 
 ---
  
